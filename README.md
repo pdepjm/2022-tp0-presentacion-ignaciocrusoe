@@ -2,4 +2,6 @@
 
 ## Estudiante: Ignacio Crusoe
 
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vQkogtG88cmwEIXEuff291urSyrZUYHikLIoRTspUodvIg5OoaUJTi8n0vqPJ3XUSN65sqJALTBizeB/pub).
+Soy Ignacio, me dicen Nacho. Tengo 19 años. Estoy en el segundo año de la carrera y soy un apasionado de la fotografía.
+
+![mi foto](foto.jpeg)
